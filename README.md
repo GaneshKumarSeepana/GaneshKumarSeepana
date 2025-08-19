@@ -14,7 +14,7 @@
 
 ### 📌 About Me
 - 🎓 **B.Tech in Computer Science Engineering** at Centurion University of Technology & Management (CGPA: 8.75/10).  
-- 💻 **Currently working on**: [Mood-Tracker App](https://github.com/GaneshKumarSeepana/mood-tracker) – A Flutter app to track and improve mental well-being.  
+- 💻 **Currently working on**: [Mood-Tracker App](https://github.com/Mood-Tracker-25/Mood_Tracker_App) – A Flutter app to track and improve mental well-being.  
 - 🌱 **Learning**: Spring Security & Cloud-Native Development.  
 - 💬 **Ask me about**: Android, Java, Kotlin, Flutter, Spring Boot.  
 - 📫 **Reach me at**: [seepanaganeshkumar@gmail.com](mailto:seepanaganeshkumar@gmail.com)  
