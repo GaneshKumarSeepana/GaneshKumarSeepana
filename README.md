@@ -24,7 +24,7 @@
 
 ### 📄 My Resume
 <p align="center">
-  <a href="https://drive.google.com/file/d/1_xdLrYS6VtDe5dKanh8VDkZE7QbPda3q/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1eWtGd_g5HPGD_wK6o-ftcmd5qGqGrU9X/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/View%20Resume-FF4500?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume Button"/>
   </a>
 </p>
